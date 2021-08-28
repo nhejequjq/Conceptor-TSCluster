@@ -110,7 +110,9 @@ plt.show()
 ```
 
 
-    
+
+![output_10_0](https://user-images.githubusercontent.com/8577918/131213228-9d4667dd-a82a-4233-bbd7-aa1ed1608ded.png)
+
 
 
 Clustering the Conceptors (automatically choose number of clusters, corresponding to the max silhouette score)
