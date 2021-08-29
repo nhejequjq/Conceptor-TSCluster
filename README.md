@@ -1,7 +1,7 @@
 # Conceptor-TSCluster
 A python library for Time Series Clustering by the use of Conceptor Network (a reservoir computing method).
 
-## Examples of using ConceptorClustering Class
+## Examples of multivariate time series clustering by using ConceptorClustering Class
 
 generate a set of multivariate time series dataset (n_samples, n_timestamps, n_features) array. It combines 10 short time series with n_timestamps=100 and 10 long time series with n_timestamps=200
 
@@ -56,7 +56,7 @@ print(labels)
 ```
 
 
-## Examples of using Reservoir Class and conceptor_clustering( ) function
+## Examples of multivariate time series clustering by using Reservoir Class and conceptor_clustering( ) function
 
 Generate a set of multivariate time series dataset (n_samples, n_timestamps, n_features) array. It combines 10 short time series with n_timestamps=100 and 10 long time series with n_timestamps=200
 
